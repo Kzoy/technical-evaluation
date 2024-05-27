@@ -199,13 +199,14 @@ language sql
 as $$
 	update Colaborador
 	set 
-		str_Nome = Status,
+		str_Nome = Nome,
 		fk_Unidade = fkUnidade
 		
 		
 	where 
 		pk_Id_Colaborador = IdColaborador;
 $$;
+
 
 
 -------------------------------------------
