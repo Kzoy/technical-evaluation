@@ -1,0 +1,6 @@
+@Av_rod_HostAddress = http://localhost:5263
+
+GET {{Av_rod_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

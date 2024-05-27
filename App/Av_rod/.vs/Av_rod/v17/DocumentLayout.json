@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Frederico\\Desktop\\Avaliacao_Rodonaves\\Sistema\\technical-evaluation\\App\\Av_rod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08173C5C-BC7A-4BD8-9CD4-3A1106770F18}|Av_rod\\Av_rod.csproj|c:\\users\\frederico\\desktop\\avaliacao_rodonaves\\sistema\\technical-evaluation\\app\\av_rod\\av_rod\\model\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08173C5C-BC7A-4BD8-9CD4-3A1106770F18}|Av_rod\\Av_rod.csproj|solutionrelative:av_rod\\model\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08173C5C-BC7A-4BD8-9CD4-3A1106770F18}|Av_rod\\Av_rod.csproj|c:\\users\\frederico\\desktop\\avaliacao_rodonaves\\sistema\\technical-evaluation\\app\\av_rod\\av_rod\\model\\unidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08173C5C-BC7A-4BD8-9CD4-3A1106770F18}|Av_rod\\Av_rod.csproj|solutionrelative:av_rod\\model\\unidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08173C5C-BC7A-4BD8-9CD4-3A1106770F18}|Av_rod\\Av_rod.csproj|c:\\users\\frederico\\desktop\\avaliacao_rodonaves\\sistema\\technical-evaluation\\app\\av_rod\\av_rod\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08173C5C-BC7A-4BD8-9CD4-3A1106770F18}|Av_rod\\Av_rod.csproj|solutionrelative:av_rod\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Colaborador.cs",
+              "DocumentMoniker": "C:\\Users\\Frederico\\Desktop\\Avaliacao_Rodonaves\\Sistema\\technical-evaluation\\App\\Av_rod\\Av_rod\\Model\\Colaborador.cs",
+              "RelativeDocumentMoniker": "Av_rod\\Model\\Colaborador.cs",
+              "ToolTip": "C:\\Users\\Frederico\\Desktop\\Avaliacao_Rodonaves\\Sistema\\technical-evaluation\\App\\Av_rod\\Av_rod\\Model\\Colaborador.cs",
+              "RelativeToolTip": "Av_rod\\Model\\Colaborador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:45:47.274Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Unidade.cs",
+              "DocumentMoniker": "C:\\Users\\Frederico\\Desktop\\Avaliacao_Rodonaves\\Sistema\\technical-evaluation\\App\\Av_rod\\Av_rod\\Model\\Unidade.cs",
+              "RelativeDocumentMoniker": "Av_rod\\Model\\Unidade.cs",
+              "ToolTip": "C:\\Users\\Frederico\\Desktop\\Avaliacao_Rodonaves\\Sistema\\technical-evaluation\\App\\Av_rod\\Av_rod\\Model\\Unidade.cs",
+              "RelativeToolTip": "Av_rod\\Model\\Unidade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:45:30.857Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Frederico\\Desktop\\Avaliacao_Rodonaves\\Sistema\\technical-evaluation\\App\\Av_rod\\Av_rod\\Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "Av_rod\\Model\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Frederico\\Desktop\\Avaliacao_Rodonaves\\Sistema\\technical-evaluation\\App\\Av_rod\\Av_rod\\Model\\Usuario.cs",
+              "RelativeToolTip": "Av_rod\\Model\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:45:16.098Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
