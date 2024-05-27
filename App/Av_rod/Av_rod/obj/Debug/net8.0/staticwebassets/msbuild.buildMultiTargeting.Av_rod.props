@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Av_rod.props" />
-</Project>
