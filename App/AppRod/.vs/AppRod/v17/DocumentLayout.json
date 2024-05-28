@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Frederico\\Desktop\\Avaliacao_Rodonaves\\Sistema\\technical-evaluation\\App\\AppRod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0270C2-73DF-4A77-AD06-E8C20D40BA16}|AppRod\\AppRod.csproj|c:\\users\\frederico\\desktop\\avaliacao_rodonaves\\sistema\\technical-evaluation\\app\\approd\\approd\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0270C2-73DF-4A77-AD06-E8C20D40BA16}|AppRod\\AppRod.csproj|solutionrelative:approd\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0270C2-73DF-4A77-AD06-E8C20D40BA16}|AppRod\\AppRod.csproj|c:\\users\\frederico\\desktop\\avaliacao_rodonaves\\sistema\\technical-evaluation\\app\\approd\\approd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0270C2-73DF-4A77-AD06-E8C20D40BA16}|AppRod\\AppRod.csproj|solutionrelative:approd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0270C2-73DF-4A77-AD06-E8C20D40BA16}|AppRod\\AppRod.csproj|c:\\users\\frederico\\desktop\\avaliacao_rodonaves\\sistema\\technical-evaluation\\app\\approd\\approd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE0270C2-73DF-4A77-AD06-E8C20D40BA16}|AppRod\\AppRod.csproj|solutionrelative:approd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0270C2-73DF-4A77-AD06-E8C20D40BA16}|AppRod\\AppRod.csproj|c:\\users\\frederico\\desktop\\avaliacao_rodonaves\\sistema\\technical-evaluation\\app\\approd\\approd\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0270C2-73DF-4A77-AD06-E8C20D40BA16}|AppRod\\AppRod.csproj|solutionrelative:approd\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0270C2-73DF-4A77-AD06-E8C20D40BA16}|AppRod\\AppRod.csproj|c:\\users\\frederico\\desktop\\avaliacao_rodonaves\\sistema\\technical-evaluation\\app\\approd\\approd\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0270C2-73DF-4A77-AD06-E8C20D40BA16}|AppRod\\AppRod.csproj|solutionrelative:approd\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0270C2-73DF-4A77-AD06-E8C20D40BA16}|AppRod\\AppRod.csproj|c:\\users\\frederico\\desktop\\avaliacao_rodonaves\\sistema\\technical-evaluation\\app\\approd\\approd\\model\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0270C2-73DF-4A77-AD06-E8C20D40BA16}|AppRod\\AppRod.csproj|solutionrelative:approd\\model\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0270C2-73DF-4A77-AD06-E8C20D40BA16}|AppRod\\AppRod.csproj|c:\\users\\frederico\\desktop\\avaliacao_rodonaves\\sistema\\technical-evaluation\\app\\approd\\approd\\model\\unidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0270C2-73DF-4A77-AD06-E8C20D40BA16}|AppRod\\AppRod.csproj|solutionrelative:approd\\model\\unidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0270C2-73DF-4A77-AD06-E8C20D40BA16}|AppRod\\AppRod.csproj|c:\\users\\frederico\\desktop\\avaliacao_rodonaves\\sistema\\technical-evaluation\\app\\approd\\approd\\approd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE0270C2-73DF-4A77-AD06-E8C20D40BA16}|AppRod\\AppRod.csproj|solutionrelative:approd\\approd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppRod",
+              "DocumentMoniker": "C:\\Users\\Frederico\\Desktop\\Avaliacao_Rodonaves\\Sistema\\technical-evaluation\\App\\AppRod\\AppRod\\AppRod.csproj",
+              "RelativeDocumentMoniker": "AppRod\\AppRod.csproj",
+              "ToolTip": "C:\\Users\\Frederico\\Desktop\\Avaliacao_Rodonaves\\Sistema\\technical-evaluation\\App\\AppRod\\AppRod\\AppRod.csproj",
+              "RelativeToolTip": "AppRod\\AppRod.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-28T03:13:06.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Frederico\\Desktop\\Avaliacao_Rodonaves\\Sistema\\technical-evaluation\\App\\AppRod\\AppRod\\appsettings.json",
+              "RelativeDocumentMoniker": "AppRod\\appsettings.json",
+              "ToolTip": "C:\\Users\\Frederico\\Desktop\\Avaliacao_Rodonaves\\Sistema\\technical-evaluation\\App\\AppRod\\AppRod\\appsettings.json",
+              "RelativeToolTip": "AppRod\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T03:42:49.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Frederico\\Desktop\\Avaliacao_Rodonaves\\Sistema\\technical-evaluation\\App\\AppRod\\AppRod\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppRod\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Frederico\\Desktop\\Avaliacao_Rodonaves\\Sistema\\technical-evaluation\\App\\AppRod\\AppRod\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AppRod\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T03:46:12.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Frederico\\Desktop\\Avaliacao_Rodonaves\\Sistema\\technical-evaluation\\App\\AppRod\\AppRod\\Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "AppRod\\Model\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Frederico\\Desktop\\Avaliacao_Rodonaves\\Sistema\\technical-evaluation\\App\\AppRod\\AppRod\\Model\\Usuario.cs",
+              "RelativeToolTip": "AppRod\\Model\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T03:48:04.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Frederico\\Desktop\\Avaliacao_Rodonaves\\Sistema\\technical-evaluation\\App\\AppRod\\AppRod\\Program.cs",
+              "RelativeDocumentMoniker": "AppRod\\Program.cs",
+              "ToolTip": "C:\\Users\\Frederico\\Desktop\\Avaliacao_Rodonaves\\Sistema\\technical-evaluation\\App\\AppRod\\AppRod\\Program.cs",
+              "RelativeToolTip": "AppRod\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T03:52:11.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Frederico\\Desktop\\Avaliacao_Rodonaves\\Sistema\\technical-evaluation\\App\\AppRod\\AppRod\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "AppRod\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Frederico\\Desktop\\Avaliacao_Rodonaves\\Sistema\\technical-evaluation\\App\\AppRod\\AppRod\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "AppRod\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAcwFAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T04:00:41.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Colaborador.cs",
+              "DocumentMoniker": "C:\\Users\\Frederico\\Desktop\\Avaliacao_Rodonaves\\Sistema\\technical-evaluation\\App\\AppRod\\AppRod\\Model\\Colaborador.cs",
+              "RelativeDocumentMoniker": "AppRod\\Model\\Colaborador.cs",
+              "ToolTip": "C:\\Users\\Frederico\\Desktop\\Avaliacao_Rodonaves\\Sistema\\technical-evaluation\\App\\AppRod\\AppRod\\Model\\Colaborador.cs",
+              "RelativeToolTip": "AppRod\\Model\\Colaborador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T04:05:31.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Unidade.cs",
+              "DocumentMoniker": "C:\\Users\\Frederico\\Desktop\\Avaliacao_Rodonaves\\Sistema\\technical-evaluation\\App\\AppRod\\AppRod\\Model\\Unidade.cs",
+              "RelativeDocumentMoniker": "AppRod\\Model\\Unidade.cs",
+              "ToolTip": "C:\\Users\\Frederico\\Desktop\\Avaliacao_Rodonaves\\Sistema\\technical-evaluation\\App\\AppRod\\AppRod\\Model\\Unidade.cs",
+              "RelativeToolTip": "AppRod\\Model\\Unidade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T04:05:45.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

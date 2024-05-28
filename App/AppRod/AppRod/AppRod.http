@@ -1,0 +1,6 @@
+@AppRod_HostAddress = http://localhost:5214
+
+GET {{AppRod_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
