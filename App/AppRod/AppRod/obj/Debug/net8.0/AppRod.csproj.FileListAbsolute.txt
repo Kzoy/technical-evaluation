@@ -6,6 +6,7 @@ C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\
 C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\AppRod\AppRod\bin\Debug\net8.0\AppRod.dll
 C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\AppRod\AppRod\bin\Debug\net8.0\AppRod.pdb
 C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\AppRod\AppRod\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\AppRod\AppRod\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\AppRod\AppRod\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\AppRod\AppRod\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\AppRod\AppRod\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -16,6 +17,12 @@ C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\
 C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\AppRod\AppRod\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\AppRod\AppRod\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\AppRod\AppRod\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\AppRod\AppRod\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\AppRod\AppRod\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\AppRod\AppRod\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\AppRod\AppRod\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\AppRod\AppRod\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\AppRod\AppRod\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\AppRod\AppRod\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\AppRod\AppRod\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\AppRod\AppRod\bin\Debug\net8.0\Npgsql.dll
@@ -29,6 +36,7 @@ C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\
 C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\AppRod\AppRod\bin\Debug\net8.0\System.Composition.Hosting.dll
 C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\AppRod\AppRod\bin\Debug\net8.0\System.Composition.Runtime.dll
 C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\AppRod\AppRod\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\AppRod\AppRod\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\AppRod\AppRod\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\AppRod\AppRod\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\Frederico\Desktop\Avaliacao_Rodonaves\Sistema\technical-evaluation\App\AppRod\AppRod\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll

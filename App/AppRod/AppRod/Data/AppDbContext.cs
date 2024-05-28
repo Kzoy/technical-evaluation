@@ -20,7 +20,7 @@ namespace AppRod.Database
 
             modelBuilder.Entity<Colaborador>()
                 .HasOne(c => c.Unidade)
-                .WithMany()
+                .WithMany(u => u.Colaboradores)
                 .HasForeignKey(c => c.fk_Unidade);
 
             modelBuilder.Entity<Colaborador>()
